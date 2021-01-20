@@ -1,6 +1,6 @@
 # Zipflix
 
-![Zipflix logo](https://fontmeme.com/permalink/210120/b3f3ad27789b0a915951c4165bcc6a59.png)
+![Zipflix logo](https://fontmeme.com/permalink/210120/5f32568c06a03993d3404c0e7e997892.png)
 
 A Netflix parody about ASMR videos on zips.
 
